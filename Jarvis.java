@@ -1,4 +1,4 @@
-public class semexam {
+public class Jarvis {
 
     public static void main(String[] args) {
         System.out.println("Subject: ENVIRONMENT AND SUSTAINABILITY      credits: 3");
